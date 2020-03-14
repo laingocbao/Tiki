@@ -1,4 +1,4 @@
-const config = require("./config");
+const config = require("../config");
 const repo = require("./bookRepo");
 var db = require("./db");
 var crawler = require("./crawler");

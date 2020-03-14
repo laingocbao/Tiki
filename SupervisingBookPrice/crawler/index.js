@@ -1,4 +1,4 @@
-const config = require('../database/db.config');
+const config = require('../../config');
 const repo = require("./repo/bookCrawlerRepo")
 var db = require('../database/db');
 var crawler = require('./tools/crawler');
