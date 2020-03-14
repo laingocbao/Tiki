@@ -1,6 +1,6 @@
 var mysql = require('mysql')
   , async = require('async');
-const config = require('./db.config');
+const config = require('../../config');
 
 var pool = null;
 
