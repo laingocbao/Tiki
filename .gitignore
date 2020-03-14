@@ -1,4 +1,4 @@
-./ScrapyEngine/node_modules/*
-./SupervisingBookPrice/node_modules/*
-./tiki_books_mobile/build/*
-./tiki-books-web/node_modules/*
+/ScrapyEngine/node_modules/*
+/SupervisingBookPrice/node_modules/*
+/tiki_books_mobile/build/*
+config.js
