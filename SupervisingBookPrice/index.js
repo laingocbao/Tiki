@@ -35,7 +35,6 @@ app.use(bodyParser.json());
 // UsersRouter.routesConfig(app);
 BooksRouter.routesConfig(app)
 
-
 app.listen(config.port, function () {
     console.log('app listening at port %s', config.port);
 });
