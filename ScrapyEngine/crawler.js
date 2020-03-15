@@ -59,6 +59,7 @@ exports.getListBookDiscount = (bookId, bookName) => {
                     // percent = percent.substring(1)
                     // percent = percent.substring(0, percent.length - 1)
                     const url = $(this).find('a.search-a-product-item').attr('href');
+                    const urlImage = $(this).find('img.img-responsive').attr('src');
                     
                     if (utility.ChuanHoaChuoi(name).includes(titleLowerCase)) {
                         // arr.push(JSON.stringify(obj));
@@ -69,7 +70,8 @@ exports.getListBookDiscount = (bookId, bookName) => {
                             percent: percent,
                             url: url,
                             date: today,
-                            bookId: bookId
+                            bookId: bookId,
+                            urlImage: urlImage
                         };
                         arr.push(obj);
                     }
@@ -80,4 +82,6 @@ exports.getListBookDiscount = (bookId, bookName) => {
     });
 }
 
-// this.getListBookDiscount(2, 'Thép đã tôi thế đấy').then()
+// this.getListBookDiscount(2, 'Thép đã tôi thế đấy').then(results => {
+//     console.log(results)
+// });

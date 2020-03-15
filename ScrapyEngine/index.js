@@ -2,8 +2,8 @@ const config = require("../config");
 const repo = require("./bookRepo");
 var db = require("./db");
 var crawler = require("./crawler");
-var util = require("./util")
-var schedule = require('node-schedule');
+var util = require("./util");
+var schedule = require("node-schedule");
 
 db.connect(function(err) {
   if (err) {
