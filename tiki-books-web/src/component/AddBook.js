@@ -1,5 +1,6 @@
 import React from "react";
 import { Redirect } from "react-router-dom";
+var Constant = require('../tools/constant');
 
 class AddBook extends React.Component {
   constructor(props) {
@@ -19,8 +20,8 @@ class AddBook extends React.Component {
 
   handleSubmit(event) {
     event.preventDefault();
-    // alert("This is alert box!");
-    fetch("http://localhost:3600/addBook", {
+    // alert(Constant.ADD_BOOK_URL);
+    fetch(Constant.ADD_BOOK_URL, {
       method: "POST",
       headers: {
         Accept: "application/json",

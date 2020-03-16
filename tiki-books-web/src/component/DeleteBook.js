@@ -1,6 +1,7 @@
 import React from "react";
 import ListBookTiki from "./ListBookTiki";
 import { Redirect } from "react-router-dom";
+var Constant = require('../tools/constant');
 
 class DeleteBook extends React.Component {
   constructor(props) {
@@ -15,7 +16,7 @@ class DeleteBook extends React.Component {
   handleSubmit(event) {
     event.preventDefault();
     // alert("This is alert box!");
-    fetch("http://localhost:3600/deleteBook", {
+    fetch(Constant.DELETE_BOOK_URL, {
       method: "POST",
       headers: {
         Accept: "application/json",

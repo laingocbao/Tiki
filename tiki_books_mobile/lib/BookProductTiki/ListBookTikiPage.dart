@@ -10,38 +10,39 @@ class ListBookTikiPage extends StatefulWidget {
   ListBookTikiPage({Key key, @required this.bookID}) : super(key: key);
 
   final int bookID;
-  @override 
+  @override
   _ListBookTikiState createState() => new _ListBookTikiState(bookID);
 }
 
-class _ListBookTikiState extends State<ListBookTikiPage>{
+class _ListBookTikiState extends State<ListBookTikiPage> {
   bool isPageDataLoading;
   int bookID;
 
   _ListBookTikiState(this.bookID);
 
-  @override 
+  @override
   void initState() {
     super.initState();
     isPageDataLoading = false;
   }
 
-  @override 
+  @override
   Widget build(BuildContext context) {
-    return Scaffold (
+    return Scaffold(
       appBar: AppBar(title: Text("Sách Tiki")),
       backgroundColor: Colors.white,
       body: Center(
-        child: FutureBuilder<List<BookTikiModel>> (
+        child: FutureBuilder<List<BookTikiModel>>(
           future: Services.fetchBookTikiDataById(bookID: this.bookID),
           builder: (context, snapshot) {
             return snapshot.connectionState == ConnectionState.done
-              ? snapshot.hasData
-                ? CommonComponent.bookTikiListView(snapshot, bookTikiCellClicked)
-                : CommonComponent.retryButton(fetch)
-              : CommonComponent.circularProgress();
+                ? snapshot.hasData
+                    ? CommonComponent.bookTikiListView(
+                        snapshot, bookTikiCellClicked)
+                    : CommonComponent.retryButton(fetch)
+                : CommonComponent.circularProgress();
           },
-          ),
+        ),
       ),
     );
   }
