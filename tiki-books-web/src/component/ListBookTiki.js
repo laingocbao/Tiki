@@ -4,6 +4,7 @@ import FontAwesome from "react-fontawesome";
 import { Link } from "react-router-dom";
 
 import "font-awesome/css/font-awesome.min.css";
+var Constant = require('../tools/constant');
 
 class ListBookTiki extends React.Component {
   constructor(props) {
@@ -14,7 +15,7 @@ class ListBookTiki extends React.Component {
   }
 
   componentDidMount() {
-    fetch("http://localhost:3600/books")
+    fetch(Constant.LIST_BOOK_URL)
       .then(response => {
         return response.json();
       })

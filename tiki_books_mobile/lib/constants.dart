@@ -4,8 +4,8 @@ import 'Util/Utils.dart';
  
 class APPURLS {
   static const String PORT = "3600";
-  // static const String BASE_URL = "http://localhost:$PORT";
-  static const String BASE_URL = "http://18.188.109.73:$PORT";
+  static const String BASE_URL = "http://localhost:3600";
+  // static const String BASE_URL = "http://18.188.109.73:$PORT";
   static const String LIST_BOOK_URL = "$BASE_URL/books";
       // "https://jsonplaceholder.typicode.com/photos";
   static const String LIST_BOOK_TIKI_URL = "$BASE_URL/booksProduct";

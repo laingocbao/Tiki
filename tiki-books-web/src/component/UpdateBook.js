@@ -1,5 +1,6 @@
 import React from "react";
 import { Redirect } from "react-router-dom";
+var Constant = require('../tools/constant');
 
 class UpdateBook extends React.Component {
   constructor(props) {
@@ -20,7 +21,7 @@ class UpdateBook extends React.Component {
   handleSubmit(event) {
     event.preventDefault();
     // alert("This is alert box!");
-    fetch("http://localhost:3600/modifyBook", {
+    fetch(Constant.UPDATE_BOOK_URL, {
       method: "POST",
       headers: {
         Accept: "application/json",

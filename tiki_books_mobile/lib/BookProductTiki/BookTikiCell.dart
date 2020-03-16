@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tiki_books_mobile/CommonComponent.dart';
 import 'package:tiki_books_mobile/Util/Utils.dart';
-import 'package:tiki_books_mobile/constants.dart';
 import 'BookTikiModel.dart';
 
 class BookTikiCell extends StatelessWidget {
@@ -49,7 +47,7 @@ class BookTikiCell extends StatelessWidget {
                   child: Text(
                     cellModel.percent.toString() + '%',
                     textAlign: TextAlign.center,
-                    style: TextStyle(fontWeight: FontWeight.w300, color: Colors.blue),
+                    style: TextStyle(fontSize: 15,fontWeight: FontWeight.w800, color: Colors.blue),
                   ),
                 ),
               ],

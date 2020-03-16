@@ -1,5 +1,6 @@
 import React from 'react'
 import utility from '../tools/utility'
+var Constant = require('../tools/constant');
 
 class ListBookTiki extends React.Component {
     constructor(props) {
@@ -12,10 +13,10 @@ class ListBookTiki extends React.Component {
 
     static getDerivedStateFromProps(props, state) {
         if (props.match.params.id == 0) {
-            return ({ url: `${utility.BASE_URL}/booksProduct` });
+            return ({ url: Constant.LIST_BOOK_TIKI_URL});
         }
         else {
-            return ({ url: `${utility.BASE_URL}/booksProductById?id=${props.match.params.id}` });
+            return ({ url: `${Constant.BASE_URL}/booksProductById?id=${props.match.params.id}` });
         }
     }
 
