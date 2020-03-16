@@ -9,9 +9,9 @@ module.exports = {
     "DATABASE": {
         "HOST": 'localhost',
         "USER": 'root',
-        "PASSWORD": '',
+        "PASSWORD": 'root',
         "DATABASE_NAME": 'ListBookTiki'
     },
-    // "time_interval": 24 * (60 * 60) * 1000
-    "time_interval": (5 * 60) * 1000
+    "time_interval": 24 * (60 * 60) * 1000
+    //"time_interval": (5 * 60) * 1000
 };

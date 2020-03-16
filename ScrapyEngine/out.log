@@ -1,0 +1,697 @@
+2020:03:16:09:00:00
+end connection database
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Chuông Nguyện Hồn Ai',                     '983825',                     '52500',                     '50',                     'https://tiki.vn/chuong-nguyen-hon-ai-p982877.html?src=search&2hi=1&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/ts/product/63/f3/5b/cf068c055e816daeff4f8eb2cb2b4de0.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Chuông Nguyện Hồn Ai (Bìa Cứng)',                     '1218395',                     '62500',                     '50',                     'https://tiki.vn/chuong-nguyen-hon-ai-bia-cung-p1217933.html?src=search&2hi=0&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/ts/product/09/e4/95/d5ff9c974801e595eacfff8298cb4415.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Chuông Nguyện Hồn Ai',                     '10187464',                     '93000',                     '40',                     'https://tiki.vn/chuong-nguyen-hon-ai-p10187463.html?src=search&2hi=1&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/ts/product/26/5c/05/d57547e6e2c9be10c5ff08db34ebbba9.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Chuông Nguyện Hồn Ai',                     '11416950',                     '109497',                     '14',                     'https://tiki.vn/chuong-nguyen-hon-ai-p471328.html?src=search&2hi=0&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/2/d/2d-bia-chuong-nguyen-hon-ai.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Chuông Nguyện Hồn Ai (Tái Bản)',                     '16422487',                     '94500',                     '30',                     'https://tiki.vn/chuong-nguyen-hon-ai-tai-ban-p16422486.html?src=search&2hi=1&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/ts/product/de/f1/a3/74f4ac8cf68f0747418e8869cdf8a0fb.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Chuông Nguyện Hồn Ai (Tái Bản 2014)',                     '98072',                     '82500',                     '25',                     'https://tiki.vn/chuong-nguyen-hon-ai-tai-ban-2014-p396499.html?src=search&2hi=1&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/c/h/chuong-nguyen-hon-ai.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Chuông Nguyện Hồn Ai',                     '1891455',                     '101990',                     '32',                     'https://tiki.vn/chuong-nguyen-hon-ai-p1891217.html?src=search&2hi=1&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/ts/product/88/84/d8/0cc06fdfa37e74f1fb13467b38a2be81.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Thép Đã Tôi Thế Đấy + Chuông Nguyện Hồn Ai (Bìa Cứng) (Bộ 2 Cuốn)',                     '34744905',                     '181051',                     '29',                     'https://tiki.vn/combo-thep-da-toi-the-day-chuong-nguyen-hon-ai-bia-cung-bo-2-cuon-p34744904.html?src=search&2hi=0&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/ts/product/b2/39/5b/fbf25cbc4abed351f5e8d5d8d9578a35.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Chuông Nguyện Hồn Ai + Đỏ Và Đen',                     '11421820',                     '187281',                     '31',                     'https://tiki.vn/combo-chuong-nguyen-hon-ai-do-va-den-p11421819.html?src=search&2hi=0&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/ts/product/47/f0/cf/6cade326f36fd53cdc4890e7e1bb7918.png')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Chuông Nguyện Hồn Ai',                     '8124741',                     '105000',                     '',                     'https://tiki.vn/chuong-nguyen-hon-ai-p453295.html?src=search&2hi=0&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/i/m/img131_11.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Chuông Nguyện Hồn Ai + Bông Hồng Vàng Và Bình Minh Mưa (Bìa Cứng)',                     '26771321',                     '265003',                     '13',                     'https://tiki.vn/combo-chuong-nguyen-hon-ai-bong-hong-vang-va-binh-minh-mua-bia-cung-p22758134.html?src=search&2hi=0&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/ts/product/88/55/06/b7479aed2eff157eabd8d3dfc5e73c62.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Bộ 2 cuốn tiểu thuyết kinh điển về đề tài phản chiến: Chuông Nguyện Hồn Ai - Lò Sát Sinh Số 5',                     '35242314',                     '200000',                     '20',                     'https://tiki.vn/bo-2-cuon-tieu-thuyet-kinh-dien-ve-de-tai-phan-chien-chuong-nguyen-hon-ai-lo-sat-sinh-so-5-p35242313.html?src=search&2hi=0&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai',                     '2020-03-15',                     '8',                     'https://salt.tikicdn.com/cache/200x200/ts/product/70/1b/71/4f6c913148718a39f546ed92c306d625.png')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy (Đinh Tị)',                     '172060',                     '88365',                     '32',                     'https://tiki.vn/thep-da-toi-the-day-dinh-ti-p463348.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/2/d/2d-thep-da-toi-the-day.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy',                     '10187419',                     '85250',                     '45',                     'https://tiki.vn/thep-da-toi-the-day-p10187418.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/ts/product/4a/66/62/ce240f6efe500c27e69aaa363e7efcce.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy',                     '161209',                     '84650',                     '38',                     'https://tiki.vn/thep-da-toi-the-day-p453668.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/i/m/img094_15.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy',                     '10705128',                     '96000',                     '20',                     'https://tiki.vn/thep-da-toi-the-day-p4704905.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/ts/product/80/10/59/7dee13d6a47ce1b75d086c4174d0dff8.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép đã Tôi Thế Đấy',                     '6822519',                     '93000',                     '40',                     'https://tiki.vn/thep-da-toi-the-day-p6822517.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/ts/product/f8/cb/2e/980f09326e1eb11c12b50ab5eab89f4b.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy (Tái Bản 2016)',                     '267691',                     '90000',                     '25',                     'https://tiki.vn/thep-da-toi-the-day-tai-ban-2016-p544342.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/t/h/thep-da-toi-the-day.u547.d20160922.t110122.287256.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy (Huy Hoàng)',                     '257490',                     '52260',                     '33',                     'https://tiki.vn/thep-da-toi-the-day-huy-hoang-p535839.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/h/h/hh_vanhockdtg_thep da toi the day_bia-01.u547.d20160811.t100803.681094.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy',                     '973168',                     '126750',                     '25',                     'https://tiki.vn/thep-da-toi-the-day-p970234.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/t/h/thepdatoitheday.u5465.d20170927.t105403.721569.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Văn Học Nga Tác Phẩm Chọn Lọc - Thép Đã Tôi Thế Đấy (Tập 1)',                     '237056',                     '46200',                     '30',                     'https://tiki.vn/van-hoc-nga-tac-pham-chon-loc-thep-da-toi-the-day-tap-1-p518944.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/t/h/thep-da-toi-the-day_bia-1.u3059.d20170525.t104425.350799.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Thép Đã Tôi Thế Đấy + Ruồi Trâu',                     '26815754',                     '180502',                     '14',                     'https://tiki.vn/combo-thep-da-toi-the-day-ruoi-trau-p21314852.html?src=search&2hi=0&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/ts/product/32/87/13/f15993bb15d7e940721d599a0e9c37c6.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy - Văn Học Kinh Điển Dành Cho Thiếu Nhi',                     '48214',                     '59499',                     '30',                     'https://tiki.vn/thep-da-toi-the-day-van-hoc-kinh-dien-danh-cho-thieu-nhi-p354724.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/s/c/screenshot_137.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Những Tấm Lòng Cao Cả - Thép Đã Tôi Thế Đấy',                     '5486373',                     '160000',                     '19',                     'https://tiki.vn/combo-nhung-tam-long-cao-ca-thep-da-toi-the-day-p463111.html?src=search&2hi=0&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/c/o/combo_3_5.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Thép Đã Tôi Thế Đấy + Chuông Nguyện Hồn Ai (Bìa Cứng) (Bộ 2 Cuốn)',                     '34744905',                     '181051',                     '29',                     'https://tiki.vn/combo-thep-da-toi-the-day-chuong-nguyen-hon-ai-bia-cung-bo-2-cuon-p34744904.html?src=search&2hi=0&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/ts/product/b2/39/5b/fbf25cbc4abed351f5e8d5d8d9578a35.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy',                     '312800',                     '94500',                     '30',                     'https://tiki.vn/thep-da-toi-the-day-p576385.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/3/9/39utnfx.u3059.d20170622.t130209.497937.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy',                     '3733167',                     '94500',                     '30',                     'https://tiki.vn/thep-da-toi-the-day-p3733165.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/ts/product/19/df/92/947b2d964fe0920f6e1ee0bb5da5cab9.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Thép Đã Tôi Thế Đấy',                     '1481433',                     '93000',                     '15',                     'https://tiki.vn/thep-da-toi-the-day-p1481071.html?src=search&2hi=0&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/ts/product/e9/bb/e4/e38d96d6017ad4878302ac32aa38ad79.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Văn Học Nga Tác Phẩm Chọn Lọc - Thép Đã Tôi Thế Đấy (Tập 2)',                     '237063',                     '46200',                     '30',                     'https://tiki.vn/van-hoc-nga-tac-pham-chon-loc-thep-da-toi-the-day-tap-2-p518948.html?src=search&2hi=1&keyword=Th%C3%A9p+%C4%91%C3%A3+t%C3%B4i+th%E1%BA%BF+%C4%91%E1%BA%A5y',                     '2020-03-15',                     '3',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/t/h/thep-2.u335.d20160808.t101737.54026.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Bắt Trẻ Đồng Xanh (Tái Bản)',                     '896346',                     '45000',                     '40',                     'https://tiki.vn/bat-tre-dong-xanh-tai-ban-p896318.html?src=search&2hi=1&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/b/a/bat-tre-dong-xanh.u5465.d20170911.t133430.594678.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Sách Bắt Trẻ Đồng Xanh + Giết Con Chim Nhại (Bộ 2 Cuốn)',                     '38237274',                     '117000',                     '40',                     'https://tiki.vn/combo-sach-bat-tre-dong-xanh-giet-con-chim-nhai-bo-2-cuon-p34749035.html?src=search&2hi=1&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/ts/product/79/31/fc/60ce8d30a6aa2100d600ad7b3513d1e1.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Bắt Trẻ Đồng Xanh (Tái Bản 2015)',                     '36027744',                     '68000',                     '1',                     'https://tiki.vn/bat-tre-dong-xanh-tai-ban-2015-p456360.html?src=search&2hi=0&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/i/m/img646.u84.d20161009.t002544.646546.gif')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Bắt Trẻ Đồng Xanh (Tái Bản 2013)',                     '36027746',                     '65000',                     '',                     'https://tiki.vn/bat-tre-dong-xanh-tai-ban-2013-p383618.html?src=search&2hi=0&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/b/a/bat-tre-dong-xanh.jpeg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Sách Bắt Trẻ Đồng Xanh và Giết Con Chim Nhại',                     '8725227',                     '135003',                     '26',                     'https://tiki.vn/combo-sach-bat-tre-dong-xanh-va-giet-con-chim-nhai-p8175824.html?src=search&2hi=1&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/ts/product/2e/53/1c/b0fa949b6eec7b1fe63a5c54ec3a03c7.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo sách tiểu thuyết hay : Bắt trẻ đồng xanh + Chiến binh cầu vồng - Tặng kèm Postcard GREEN LIFE',                     '49494230',                     '153512',                     '12',                     'https://tiki.vn/combo-sach-tieu-thuyet-hay-bat-tre-dong-xanh-chien-binh-cau-vong-tang-kem-postcard-green-life-p21709451.html?src=search&2hi=0&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/ts/product/7f/2b/af/5b55aa3aaf23afcf8c991e372dd7aa28.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Bắt Trẻ Đồng Xanh',                     '19885958',                     '60000',                     '40',                     'https://tiki.vn/bat-tre-dong-xanh-p19885956.html?src=search&2hi=1&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/ts/product/6f/3e/d7/7069f481e34010136d132e4c1e7a09f5.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo 2 Cuốn Tiểu Thuyết Lãng Mạn: Người Đua Diều (Tái Bản 2018) + Bắt Trẻ Đồng Xanh (Tái Bản) / Bộ Những Cuốn Tiểu Thuyết Hay Nhất - Tặng Kèm Bookmark Happy Life',                     '49494248',                     '159999',                     '13',                     'https://tiki.vn/combo-2-cuon-tieu-thuyet-lang-man-nguoi-dua-dieu-tai-ban-2018-bat-tre-dong-xanh-tai-ban-bo-nhung-cuon-tieu-thuyet-hay-nhat-tang-kem-bookmark-happy-life-p36701242.html?src=search&2hi=0&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/ts/product/fc/2f/4b/db3dc393fd6f45483f805a61e7496e75.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Bắt Trẻ Đồng Xanh và Pippi Tất Dài (Tặng Kèm Sổ Tay)',                     '10382552',                     '135200',                     '20',                     'https://tiki.vn/combo-bat-tre-dong-xanh-va-pippi-tat-dai-tang-kem-so-tay-p10382551.html?src=search&2hi=1&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/ts/product/88/b3/17/a769386319f1007e87f1a03ee2f1d18b.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   ' Combo Sách Bắt Trẻ Đồng Xanh và Giết Con Chim Nhại tặng cuốn rèn luyện kĩ năng cho bé',                     '23252890',                     '171066',                     '12',                     'https://tiki.vn/combo-sach-bat-tre-dong-xanh-va-giet-con-chim-nhai-tang-cuon-ren-luyen-ki-nang-cho-be-p23252889.html?src=search&2hi=0&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh',                     '2020-03-15',                     '2',                     'https://salt.tikicdn.com/cache/200x200/ts/product/1f/30/dc/360ed919e2a9697b2950dae8b9ddbe37.jpg')
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 858,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+{ Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'percent' at row 1
+    at Query.Sequence._packetToError (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:526:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Pool.query (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/home/ubuntu/Tiki/ScrapyEngine/db.js:61:10)
+    at new Promise (<anonymous>)
+    at Object.exports.save.sql [as save] (/home/ubuntu/Tiki/ScrapyEngine/db.js:60:10)
+    at Object.exports.insertBook (/home/ubuntu/Tiki/ScrapyEngine/bookRepo.js:27:15)
+    at results.forEach.item (/home/ubuntu/Tiki/ScrapyEngine/index.js:22:16)
+    at Array.forEach (<anonymous>)
+    at crawler.getListBookDiscount.then.results (/home/ubuntu/Tiki/ScrapyEngine/index.js:20:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: 'Incorrect integer value: \'\' for column \'percent\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql: 'INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   \'Chuông Nguyện Hồn Ai\',                     \'8124741\',                     \'105000\',                     \'\',                     \'https://tiki.vn/chuong-nguyen-hon-ai-p453295.html?src=search&2hi=0&keyword=Chu%C3%B4ng+Nguy%E1%BB%87n+H%E1%BB%93n+Ai\',                     \'2020-03-15\',                     \'8\',                     \'https://salt.tikicdn.com/cache/200x200/media/catalog/product/i/m/img131_11.jpg\')' }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 859,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+{ Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'percent' at row 1
+    at Query.Sequence._packetToError (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:526:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Pool.query (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/home/ubuntu/Tiki/ScrapyEngine/db.js:61:10)
+    at new Promise (<anonymous>)
+    at Object.exports.save.sql [as save] (/home/ubuntu/Tiki/ScrapyEngine/db.js:60:10)
+    at Object.exports.insertBook (/home/ubuntu/Tiki/ScrapyEngine/bookRepo.js:27:15)
+    at results.forEach.item (/home/ubuntu/Tiki/ScrapyEngine/index.js:22:16)
+    at Array.forEach (<anonymous>)
+    at crawler.getListBookDiscount.then.results (/home/ubuntu/Tiki/ScrapyEngine/index.js:20:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlMessage: 'Incorrect integer value: \'\' for column \'percent\' at row 1',
+  sqlState: 'HY000',
+  index: 0,
+  sql: 'INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   \'Bắt Trẻ Đồng Xanh (Tái Bản 2013)\',                     \'36027746\',                     \'65000\',                     \'\',                     \'https://tiki.vn/bat-tre-dong-xanh-tai-ban-2013-p383618.html?src=search&2hi=0&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh\',                     \'2020-03-15\',                     \'2\',                     \'https://salt.tikicdn.com/cache/200x200/media/catalog/product/b/a/bat-tre-dong-xanh.jpeg\')' }
+{ Error: ER_DATA_TOO_LONG: Data too long for column 'name' at row 1
+    at Query.Sequence._packetToError (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:526:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Pool.query (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/home/ubuntu/Tiki/ScrapyEngine/db.js:61:10)
+    at new Promise (<anonymous>)
+    at Object.exports.save.sql [as save] (/home/ubuntu/Tiki/ScrapyEngine/db.js:60:10)
+    at Object.exports.insertBook (/home/ubuntu/Tiki/ScrapyEngine/bookRepo.js:27:15)
+    at results.forEach.item (/home/ubuntu/Tiki/ScrapyEngine/index.js:22:16)
+    at Array.forEach (<anonymous>)
+    at crawler.getListBookDiscount.then.results (/home/ubuntu/Tiki/ScrapyEngine/index.js:20:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  code: 'ER_DATA_TOO_LONG',
+  errno: 1406,
+  sqlMessage: 'Data too long for column \'name\' at row 1',
+  sqlState: '22001',
+  index: 0,
+  sql: 'INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   \'Combo 2 Cuốn Tiểu Thuyết Lãng Mạn: Người Đua Diều (Tái Bản 2018) + Bắt Trẻ Đồng Xanh (Tái Bản) / Bộ Những Cuốn Tiểu Thuyết Hay Nhất - Tặng Kèm Bookmark Happy Life\',                     \'49494248\',                     \'159999\',                     \'13\',                     \'https://tiki.vn/combo-2-cuon-tieu-thuyet-lang-man-nguoi-dua-dieu-tai-ban-2018-bat-tre-dong-xanh-tai-ban-bo-nhung-cuon-tieu-thuyet-hay-nhat-tang-kem-bookmark-happy-life-p36701242.html?src=search&2hi=0&keyword=B%E1%BA%AFt+Tr%E1%BA%BB+%C4%90%E1%BB%93ng+Xanh\',                     \'2020-03-15\',                     \'2\',                     \'https://salt.tikicdn.com/cache/200x200/ts/product/fc/2f/4b/db3dc393fd6f45483f805a61e7496e75.jpg\')' }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 864,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 863,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 865,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 867,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 866,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 868,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 860,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 862,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 861,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 869,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 870,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 871,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 872,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 873,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 874,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 875,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 876,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 877,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 878,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 879,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 880,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 881,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 882,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 883,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 884,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 885,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 886,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 887,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 888,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 889,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 890,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 891,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 892,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 893,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Kiêu Hãnh Và Định Kiến',                     '309797',                     '57000',                     '40',                     'https://tiki.vn/kieu-hanh-va-dinh-kien-p573720.html?src=search&2hi=1&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/media/catalog/product/k/i/kieu-hanh-va-dinh-kien-02.u547.d20170208.t090956.515233.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Kiêu Hãnh Và Định Kiến',                     '20477682',                     '80000',                     '20',                     'https://tiki.vn/kieu-hanh-va-dinh-kien-p4299553.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/25/40/97/3d748a2be38e22ba921d649f25bc6270.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Kiêu Hãnh Và Định Kiến (Tái Bản)',                     '1826147',                     '69300',                     '30',                     'https://tiki.vn/kieu-hanh-va-dinh-kien-tai-ban-p1826145.html?src=search&2hi=1&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/5c/f9/36/3a14461c4ba322c450ffe724f2e65849.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Kiêu Hãnh Và Định Kiến (Bìa Cứng)',                     '17371063',                     '130000',                     '35',                     'https://tiki.vn/kieu-hanh-va-dinh-kien-bia-cung-p17371062.html?src=search&2hi=1&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/d9/09/b2/460b1344379f405668d7245bf46fe6a4.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Kiêu Hãnh Và Định Kiến + Lolita (2 cuốn Tiểu thuyết lãng mạn đặc sắc/ Tặng kèm Bookmark Happy Life)',                     '37137726',                     '154589',                     '31',                     'https://tiki.vn/combo-kieu-hanh-va-dinh-kien-lolita-2-cuon-tieu-thuyet-lang-man-dac-sac-tang-kem-bookmark-happy-life-p22141360.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/f3/3b/ef/858c151f5034743e780b21cc026712db.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Kiêu Hãnh Và Định Kiến (Bìa mềm)',                     '17371075',                     '77000',                     '45',                     'https://tiki.vn/kieu-hanh-va-dinh-kien-bia-mem-p17371074.html?src=search&2hi=1&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/c7/8c/7e/3fbf98cef66f875bf6fa9441a4936ef8.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Kiêu hãnh và định kiến (Bìa cứng)',                     '32137949',                     '96000',                     '20',                     'https://tiki.vn/kieu-hanh-va-dinh-kien-bia-cung-p21306910.html?src=search&2hi=1&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/5c/0a/60/f422c2b93c26c8622a0c0b5a4a3f2dcc.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Kiêu Hãnh Và Định Kiến - Lý Trí Và Tình Cảm',                     '10111986',                     '151848',                     '32',                     'https://tiki.vn/combo-kieu-hanh-va-dinh-kien-ly-tri-va-tinh-cam-p10111985.html?src=search&2hi=1&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/eb/b9/2b/f2470fb817457a958baf6ea377b687ce.png')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Kiêu Hãnh Và Định Kiến (2011)',                     '20445879',                     '78850',                     '17',                     'https://tiki.vn/kieu-hanh-va-dinh-kien-2011-p455751.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/32/34/74/7c62b890dace3adf1e7f2cf7f6b16bdb.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo 3 cuốn truyện kinh điển hay nhất: Cuốn theo chiều gió + Tiếng chim hót trong bụi mận gai + Kiêu Hãnh Và Định Kiến',                     '42846604',                     '375001',                     '12',                     'https://tiki.vn/combo-3-cuon-truyen-kinh-dien-hay-nhat-cuon-theo-chieu-gio-tieng-chim-hot-trong-bui-man-gai-kieu-hanh-va-dinh-kien-p42326234.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/79/4d/5f/bed2bdc7b15859144e3ba69c318e9296.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Đồi Gió Hú (Bìa Cứng) + Kiêu Hãnh Và Định Kiến',                     '22165015',                     '199000',                     '13',                     'https://tiki.vn/combo-doi-gio-hu-bia-cung-kieu-hanh-va-dinh-kien-p21315667.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/b0/f9/5b/a022d2e714f1949a5eeb41aa2d9dfb62.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Người đua diều + Ăn, cầu nguyện, yêu + Kiêu hãnh và định kiến',                     '13931234',                     '315000',                     '5',                     'https://tiki.vn/combo-nguoi-dua-dieu-an-cau-nguyen-yeu-kieu-hanh-va-dinh-kien-p13931233.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/8d/94/73/6a4573b5f01acc2de9c9bb55817b2526.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Kiêu Hãnh Và Định Kiến (Bìa mềm)',                     '35814994',                     '105000',                     '25',                     'https://tiki.vn/kieu-hanh-va-dinh-kien-bia-mem-p24791586.html?src=search&2hi=1&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/11/9c/53/908d7eb8fa663cc3d3f405bd53ffd3a6.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Kiêu Hãnh Và Định Kiến (Bìa cứng)',                     '35816153',                     '150000',                     '25',                     'https://tiki.vn/kieu-hanh-va-dinh-kien-bia-cung-p35816152.html?src=search&2hi=1&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/f9/49/81/a72a39553b685617a82af3139e31af04.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Bông Hồng Vàng Và Bình Minh Mưa (Bìa Cứng) + Kiêu Hãnh Và Định Kiến',                     '26768503',                     '230002',                     '15',                     'https://tiki.vn/combo-bong-hong-vang-va-binh-minh-mua-bia-cung-kieu-hanh-va-dinh-kien-p22759968.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/f1/3b/50/c53ea2fb2019f0dec5eb58cc402c9156.jpg')
+INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   'Combo Cuốn Theo Chiều Gió (Tiểu Thuyết) + Kiêu Hãnh Và Định Kiến',                     '26771767',                     '278003',                     '18',                     'https://tiki.vn/combo-cuon-theo-chieu-gio-tieu-thuyet-kieu-hanh-va-dinh-kien-p22762145.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn',                     '2020-03-15',                     '1',                     'https://salt.tikicdn.com/cache/200x200/ts/product/dc/41/27/f12f11545aad4ab8a4ce0e69d6231426.jpg')
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 894,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 895,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 896,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 897,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+{ Error: ER_DATA_TOO_LONG: Data too long for column 'name' at row 1
+    at Query.Sequence._packetToError (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:526:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Pool.query (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/home/ubuntu/Tiki/ScrapyEngine/db.js:61:10)
+    at new Promise (<anonymous>)
+    at Object.exports.save.sql [as save] (/home/ubuntu/Tiki/ScrapyEngine/db.js:60:10)
+    at Object.exports.insertBook (/home/ubuntu/Tiki/ScrapyEngine/bookRepo.js:27:15)
+    at results.forEach.item (/home/ubuntu/Tiki/ScrapyEngine/index.js:22:16)
+    at Array.forEach (<anonymous>)
+    at crawler.getListBookDiscount.then.results (/home/ubuntu/Tiki/ScrapyEngine/index.js:20:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  code: 'ER_DATA_TOO_LONG',
+  errno: 1406,
+  sqlMessage: 'Data too long for column \'name\' at row 1',
+  sqlState: '22001',
+  index: 0,
+  sql: 'INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   \'Combo Kiêu Hãnh Và Định Kiến + Lolita (2 cuốn Tiểu thuyết lãng mạn đặc sắc/ Tặng kèm Bookmark Happy Life)\',                     \'37137726\',                     \'154589\',                     \'31\',                     \'https://tiki.vn/combo-kieu-hanh-va-dinh-kien-lolita-2-cuon-tieu-thuyet-lang-man-dac-sac-tang-kem-bookmark-happy-life-p22141360.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn\',                     \'2020-03-15\',                     \'1\',                     \'https://salt.tikicdn.com/cache/200x200/ts/product/f3/3b/ef/858c151f5034743e780b21cc026712db.jpg\')' }
+{ Error: ER_DATA_TOO_LONG: Data too long for column 'name' at row 1
+    at Query.Sequence._packetToError (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Connection.js:526:10)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    --------------------
+    at Pool.query (/home/ubuntu/Tiki/ScrapyEngine/node_modules/mysql/lib/Pool.js:199:23)
+    at Promise (/home/ubuntu/Tiki/ScrapyEngine/db.js:61:10)
+    at new Promise (<anonymous>)
+    at Object.exports.save.sql [as save] (/home/ubuntu/Tiki/ScrapyEngine/db.js:60:10)
+    at Object.exports.insertBook (/home/ubuntu/Tiki/ScrapyEngine/bookRepo.js:27:15)
+    at results.forEach.item (/home/ubuntu/Tiki/ScrapyEngine/index.js:22:16)
+    at Array.forEach (<anonymous>)
+    at crawler.getListBookDiscount.then.results (/home/ubuntu/Tiki/ScrapyEngine/index.js:20:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+  code: 'ER_DATA_TOO_LONG',
+  errno: 1406,
+  sqlMessage: 'Data too long for column \'name\' at row 1',
+  sqlState: '22001',
+  index: 0,
+  sql: 'INSERT INTO BooksTiki (ID, name, productID, price, percent, url, dateRecord, bookID, urlImage)     VALUES (NULL,   \'Combo 3 cuốn truyện kinh điển hay nhất: Cuốn theo chiều gió + Tiếng chim hót trong bụi mận gai + Kiêu Hãnh Và Định Kiến\',                     \'42846604\',                     \'375001\',                     \'12\',                     \'https://tiki.vn/combo-3-cuon-truyen-kinh-dien-hay-nhat-cuon-theo-chieu-gio-tieng-chim-hot-trong-bui-man-gai-kieu-hanh-va-dinh-kien-p42326234.html?src=search&2hi=0&keyword=Ki%C3%AAu+H%C3%A3nh+V%C3%A0+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn\',                     \'2020-03-15\',                     \'1\',                     \'https://salt.tikicdn.com/cache/200x200/ts/product/79/4d/5f/bed2bdc7b15859144e3ba69c318e9296.jpg\')' }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 899,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 898,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 905,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 904,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 902,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 901,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 903,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 907,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 900,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+
+good OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 906,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
