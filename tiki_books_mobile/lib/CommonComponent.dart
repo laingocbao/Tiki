@@ -5,6 +5,7 @@ import 'package:tiki_books_mobile/BookProductTiki/BookTikiModel.dart';
 import 'constants.dart';
 import 'Books/BookCell.dart';
 import 'Books/BookCellModel.dart';
+import './Util/Utils.dart';
 
 class CommonComponent {
   static Padding text(String text, FontWeight fontWeight, double fontSize,

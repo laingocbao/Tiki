@@ -17,17 +17,14 @@ class LeftMenu extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: appTitle,
-      theme: new ThemeData(
-        primarySwatch: COLORS.APP_THEME_COLOR,
-      ),
+      // theme: new ThemeData(
+      //   primarySwatch: COLORS.APP_THEME_COLOR,
+      // ),
       // home: new LeftMenuPage(title: appTitle),
       home: Container(
-        child: Padding(
-          padding: EdgeInsets.only(top: 100.0),
-          child: BlocProvider(
-            bloc: new ColorBloc(),
-            child: LeftMenuPage(title: appTitle),
-          ),
+        child: BlocProvider(
+          bloc: ColorBloc(),
+          child: LeftMenuPage(title: appTitle),
         ),
       ),
     );

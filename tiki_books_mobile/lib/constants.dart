@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-
 import 'Util/Utils.dart';
  
 class APPURLS {
   static const String PORT = "3600";
-  static const String BASE_URL = "http://localhost:3600";
-  // static const String BASE_URL = "http://18.188.109.73:$PORT";
+  // static const String BASE_URL = "http://localhost:3600";
+  static const String BASE_URL = "http://18.188.109.73:$PORT";
   static const String LIST_BOOK_URL = "$BASE_URL/books";
       // "https://jsonplaceholder.typicode.com/photos";
   static const String LIST_BOOK_TIKI_URL = "$BASE_URL/booksProduct";
@@ -23,4 +22,5 @@ class COLORS {
   // App Colors //
   static const Color DRAWER_BG_COLOR = Colors.lightGreen;
   static MaterialColor APP_THEME_COLOR = Utils.convertHexToColor(0xFF27A0FC);
+  // static MaterialColor APP_THEME_COLOR = Utils.convertHexToColor(0xFFFF1E00);
 }

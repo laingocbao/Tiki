@@ -80,7 +80,10 @@ class _LeftMenuState extends State<LeftMenuPage> {
     }
 
     return Scaffold(
-      appBar: AppBar(title: Text(title)),
+      appBar: AppBar(
+        title: Text(title),
+        // backgroundColor: snapShot.data,
+      ),
       drawer: Drawer(
         // Add a ListView to the drawer. This ensures the user can scroll
         // through the options in the drawer if there isn't enough vertical
@@ -103,7 +106,8 @@ class _LeftMenuState extends State<LeftMenuPage> {
                 ],
               ),
               decoration: BoxDecoration(
-                color: COLORS.APP_THEME_COLOR,
+                // color: COLORS.APP_THEME_COLOR,
+                color: Utils.convertHexToColor(0xFF52FC27),
               ),
             ),
             new Column(children: drawerOptions),
@@ -113,10 +117,4 @@ class _LeftMenuState extends State<LeftMenuPage> {
       body: _getDrawerItemScreen(_selectedIndex),
     );
   }
-
-  // setTitle(String title) {
-  //   setState(() {
-  //     this.title = title;
-  //   });
-  // }
 }
