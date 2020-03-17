@@ -55,6 +55,9 @@ exports.getListBookDiscount = (bookId, bookName) => {
 
                     var percent = $(this).find('a.search-a-product-item > div.content  > p.price-sale > span.sale-tag-square')
                                            .text().trim();
+                    if (percent == "") {
+                        percent = '0'
+                    }
                     percent = utility.XoaKyTuKhongPhaiSo(percent)
                     // percent = percent.substring(1)
                     // percent = percent.substring(0, percent.length - 1)
