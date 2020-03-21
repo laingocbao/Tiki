@@ -20,6 +20,21 @@ exports.getListBooksTikiTopDiscount = (percent) => {
     var sql = `SELECT * FROM BooksTiki WHERE BooksTiki.percent >= ${percent} ORDER BY BooksTiki.percent DESC`;
     return db.load(sql);
 }
+exports.getListBooksProductAtDate = (today) => {
+    var sql = `SELECT * FROM BooksTiki WHERE dateRecord = ${today} ORDER BY BooksTiki.percent DESC`;
+    return db.load(sql);
+};
+
+exports.getListBooksProductByIdAtDate = (id, today) => {
+    var sql = `SELECT * FROM BooksTiki WHERE BooksTiki.bookID = ${id} AND WHERE dateRecord = ${today} ORDER BY BooksTiki.percent DESC`;
+    return db.load(sql);
+}
+
+exports.getListBooksTikiTopDiscountAtDate = (percent, today) => {
+    // var sql = `SELECT * FROM BooksTiki WHERE BooksTiki.bookID = ${id}`;
+    var sql = `SELECT * FROM BooksTiki WHERE BooksTiki.percent >= ${percent} AND WHERE dateRecord = ${today} ORDER BY BooksTiki.percent DESC`;
+    return db.load(sql);
+}
 
 exports.insertBook = (name) => {
     var sql = `INSERT INTO Books (ID, Name) VALUES (NULL, '${name}')`

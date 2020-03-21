@@ -20,6 +20,18 @@ exports.routesConfig = function (app) {
         BooksController.getListBooksTikiTopDiscount
     ]);
 
+    app.get('/booksProductAtDate', [
+        BooksController.getListBooksProductAtDate
+    ]);
+
+    app.get('/booksProductByIdAtDate', [
+        BooksController.getListBooksProductByIdAtDate
+    ]);
+
+    app.get('/listBookTikiTopDiscountAtDate', [
+        BooksController.getListBooksTikiTopDiscountAtDate
+    ]);
+
     app.post('/addBook', [
         BooksController.addBook
     ]);
