@@ -60,6 +60,20 @@ exports.getDateTime = () => {
 
 }
 
+exports.getDate_YYYY_MMM_DD = () => {
+    var date = new Date();
+
+    var year = date.getFullYear();
+
+    var month = date.getMonth() + 1;
+    month = (month < 10 ? "0" : "") + month;
+
+    var day  = date.getDate();
+    day = (day < 10 ? "0" : "") + day;
+
+    return year + "-" + month + "-" + day;
+}
+
 // var s = "   Kiêu      Hãnh    và    Định    kiến   "
 // var s1 = "Combo Kiêu Hãnh Và Định Kiến + Lolita (2 cuốn Tiểu thuyết lãng mạn đặc sắc/ Tặng kèm Bookmark Happy Life)"
 // s = ChuanHoaChuoi(s)

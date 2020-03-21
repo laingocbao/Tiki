@@ -4,18 +4,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const utility = require("./util");
 
-var today = new Date();
-var dd = today.getDate();
-
-var mm = today.getMonth() + 1;
-var yyyy = today.getFullYear();
-if (dd < 10) {
-    dd = '0' + dd;
-}
-if (mm < 10) {
-    mm = '0' + mm;
-}
-today = yyyy + '-' + mm + '-' + dd;
+var today = utility.getDate_YYYY_MMM_DD()
 
 exports.getListBookDiscount = (bookId, bookName) => {
     return new Promise((resolve, reject) => {
