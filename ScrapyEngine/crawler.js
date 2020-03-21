@@ -61,7 +61,7 @@ exports.getListBookDiscount = (bookId, bookName) => {
                             price: price,
                             percent: percent,
                             url: url,
-                            date: today,
+                            date: utility.getDate_YYYY_MMM_DD(),
                             bookId: bookId,
                             urlImage: urlImage
                         };
