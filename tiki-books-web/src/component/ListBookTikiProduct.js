@@ -13,10 +13,10 @@ class ListBookTiki extends React.Component {
 
     static getDerivedStateFromProps(props, state) {
         if (props.match.params.id == 0) {
-            return ({ url: Constant.LIST_BOOK_TIKI_URL});
+            return ({ url: Constant.LIST_BOOK_TIKI_AT_DATE_URL  + `?date=${utility.getDate_YYYY_MMM_DD()}`});
         }
         else {
-            return ({ url: `${Constant.BASE_URL}/booksProductById?id=${props.match.params.id}` });
+            return ({ url: Constant.LIST_BOOK_TIKI_BY_ID_AT_DATE_URL + `?id=${props.match.params.id}&date=${utility.getDate_YYYY_MMM_DD()}`});
         }
     }
 
@@ -27,6 +27,7 @@ class ListBookTiki extends React.Component {
             })
             .then(data => {
                 // this.setState({ data })
+                console.log(this.state.url)
                 console.log(data)
                 let str = data.map((row, index) => {
                     return (

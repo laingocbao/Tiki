@@ -36,19 +36,19 @@ exports.getListBooksTikiTopDiscount = (req, res) => {
 };
 
 exports.getListBooksProductAtDate = (req, res) => {
-    BookRepo.getListBooksProduct(req.query.date).then((results) => {
+    BookRepo.getListBooksProductAtDate(req.query.date).then((results) => {
         res.status(200).send(results);
     });
 };
 
 exports.getListBooksProductByIdAtDate = (req, res) => {
-    BookRepo.getListBooksProductById(req.query.id, req.query.date).then((results) => {
+    BookRepo.getListBooksProductByIdAtDate(req.query.id, req.query.date).then((results) => {
         res.status(200).send(results);
     });
 };
 
 exports.getListBooksTikiTopDiscountAtDate = (req, res) => {
-    BookRepo.getListBooksTikiTopDiscount(req.query.percent, req.query.date).then((results) => {
+    BookRepo.getListBooksTikiTopDiscountAtDate(req.query.percent, req.query.date).then((results) => {
         res.status(200).send(results);
     });
 };
