@@ -1,5 +1,5 @@
-config.js
-tiki-books-web/out.log
-ScrapyEngine/out.log
-SupervisingBookPrice/out.log
-tiki_books_mobile
+./config.js
+./tiki-books-web/out.log
+./ScrapyEngine/out.log
+./SupervisingBookPrice/out.log
+./tiki_books_mobile/*
