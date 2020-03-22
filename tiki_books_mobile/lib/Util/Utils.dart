@@ -26,4 +26,9 @@ class Utils {
     var newColor = new MaterialColor(color, colorCodes);
     return newColor;
   }
+
+  static String getDateToday_YYYY_MMM_DD() {
+    DateTime now = DateTime.now();
+    return DateFormat('yyyy-MM-dd').format(now);
+  }
 }

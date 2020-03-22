@@ -10,6 +10,10 @@ class APPURLS {
   static const String LIST_BOOK_TIKI_URL = "$BASE_URL/booksProduct";
   static const String LIST_BOOK_TIKI_BY_ID_URL = "$BASE_URL/booksProductById";
   static const String LIST_BOOK_TIKI_TOP_DISCOUNT_URL = "$BASE_URL/listBookTikiTopDiscount?percent=";
+
+  static const String LIST_BOOK_TIKI_AT_DATE_URL = "$BASE_URL/booksProductAtDate";
+  static const String LIST_BOOK_TIKI_BY_ID_AT_DATE_URL = "$BASE_URL/booksProductByIdAtDate";
+  static const String LIST_BOOK_TIKI_TOP_DISCOUNT_AT_DATE_URL = "$BASE_URL/listBookTikiTopDiscountAtDate";
 }
  
 class MESSAGES {
