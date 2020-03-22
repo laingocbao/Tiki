@@ -1,9 +1,11 @@
 import 'dart:async';
 import 'dart:convert';
+import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:tiki_books_mobile/BookProductTiki/BookTikiModel.dart';
 import 'Books/BookCellModel.dart';
 import 'constants.dart';
+import './Util/Utils.dart';
  
 class Services {
   static Future<List<BookCellModel>> fetchBooksData() async {
@@ -21,7 +23,8 @@ class Services {
   }
 
   static Future<List<BookTikiModel>> fetchBookTikiDataById({bookID: int}) async {
-    String url = bookID == 0 ? APPURLS.LIST_BOOK_TIKI_URL : (APPURLS.LIST_BOOK_TIKI_BY_ID_URL+ "?id=" + bookID.toString()) ;
+    String url = bookID == 0 ? APPURLS.LIST_BOOK_TIKI_URL : (APPURLS.LIST_BOOK_TIKI_BY_ID_AT_DATE_URL+ "?id=" + bookID.toString() + "&date=" + Utils.getDateToday_YYYY_MMM_DD()) ;
+    // debugPrint('url: $url');
     final response = await http.get(url);
     try {
       if (response.statusCode == 200) {
@@ -36,7 +39,8 @@ class Services {
   }
 
   static Future<List<BookTikiModel>> fetchBookTikiTopDiscountData(int percent) async {
-    String url = APPURLS.LIST_BOOK_TIKI_TOP_DISCOUNT_URL + percent.toString();
+    String url = APPURLS.LIST_BOOK_TIKI_TOP_DISCOUNT_AT_DATE_URL+ "?percent=" + percent.toString() + "&date=" + Utils.getDateToday_YYYY_MMM_DD();
+    // debugPrint('url: $url');
     final response = await http.get(url);
     try {
       if (response.statusCode == 200) {
