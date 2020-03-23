@@ -3,7 +3,7 @@ const repo = require("./bookRepo");
 var db = require("./db");
 var crawler = require("./crawler");
 var util = require("./util");
-var schedule = require("node-schedule");
+var cron = require('node-cron');
 
 db.connect(function(err) {
   if (err) {
@@ -12,7 +12,7 @@ db.connect(function(err) {
   }
 });
 
-var j = schedule.scheduleJob({hour: 9, minute: 0}, function(){
+cron.schedule('1 0 * * *', () => {
   console.log(util.getDateTime())
   repo.getListBook().then(results => {
     results.forEach(element => {
